@@ -1,3 +1,7 @@
+---
+title: "Welcome to my blog"
+date: 2023-02-20
+---
 Sql vs Nosql
 
 We have tables with specific structure , and we can't enter data in another structure. All records in tables must have the same structure .
